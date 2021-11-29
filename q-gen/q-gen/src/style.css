@@ -1,0 +1,51 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2019/03/05/01/59/spring-background-4035402_1280.jpg");
+  background-size: 100%;
+}
+h1 {
+  color: black;
+  font-family: courier;
+  font-size: 40px;
+  padding: 10px;
+}
+
+p {
+  color: black;
+  font-family: courier;
+  font-size: 2rem;
+  padding: 10px;
+}
+
+.quote-box {
+  background-color: white;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 100px;
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+  box-shadow: 2.5px 2.5px 10px;
+}
+
+.buttons {
+  font-family: courier;
+  background-color: lightblue;
+  width: auto;
+  border-radius: 10px;
+  padding: auto;
+  margin: auto;
+  display: inline-block;
+  box-shadow: 1px 1px 2.5px;
+}
+
+.author {
+  margin: auto;
+  margin-left: 6rem;
+  margin-bottom: 1rem;
+  font-family: courier;
+  font-size: 1.5rem;
+}
+
+div {
+  font-family: courier;
+}
